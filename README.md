@@ -29,4 +29,5 @@ I've been in IT since 2022.
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=kubernetes)
 ![AI](https://img.shields.io/badge/-AI-090909?style=for-the-badge&logo=tensorflow)
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=c)    
+![GO](https://img.shields.io/badge/-GO-090909?style=for-the-badge&logo=go)    
 and more DevOps.
