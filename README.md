@@ -25,6 +25,7 @@ I've been in IT since 2022.
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=nginx&logoColor=009900)
 ![Apache](https://img.shields.io/badge/-Apache-090909?style=for-the-badge&logo=apache)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=kubernetes)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)
 ![ML and AI](https://img.shields.io/badge/-ML/AI-090909?style=for-the-badge&logo=tensorflow)
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=0075C0)
